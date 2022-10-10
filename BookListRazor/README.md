@@ -6,11 +6,11 @@ It has been implemented with two ways.
 
 ### 1. With Controllers (API Calls with Ajax)
 
-    Created API to fetch all books and delete book. They are getting called inside JavaScript code with the help of Ajax. Data Table has been used to show data beautifully.
+Created API to fetch all books and delete book. They are getting called inside JavaScript code with the help of Ajax. Data Table has been used to show data beautifully.
 
 ### 2. Without Controllers
 
-    All CRUD operations are there. You can Create Book, Update Book and Delete Book. You can view all the books in the home page only.
+All CRUD operations are there. You can Create Book, Update Book and Delete Book. You can view all the books in the home page only.
 
 ## Preview
 
