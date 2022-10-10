@@ -1,0 +1,8 @@
+# Ignored Files and Folders 
+
+bin
+.vs 
+.vscode
+obj
+*.csproj.user 
+appsettings.Development.json
