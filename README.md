@@ -4,7 +4,7 @@ All the projects are created using ASP.NET Core technology.
 
 ### Checkout to different branches to see different projects or click on the below links.
 
-1. [Book List Razor App](https://github.com/rgautam320/ASP.NET-Projects/tree/master/BookListRazor)
+1. [Book List Razor App](https://github.com/rgautam320/ASP.NET-Core-Projects/tree/master/BookListRazor)
 
 ## How to Run Individual Project?
 
